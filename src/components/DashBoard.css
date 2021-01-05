@@ -1,0 +1,11 @@
+.db{
+  color: navy;
+  text-transform: uppercase;
+  margin-left: 30px;
+}
+
+.blog{
+  font-size: 32px;
+  color:navy;
+  margin-left: 30px;
+}
